@@ -5,3 +5,9 @@ Test a new repository
 Second Test of Repository
 
 ### functions
+
+### first function
+
+### second function
+
+### third function
