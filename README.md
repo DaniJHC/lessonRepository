@@ -11,3 +11,5 @@ Second Test of Repository
 ### second function
 
 ### third function
+
+### instrukcja obslugi
