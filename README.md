@@ -12,4 +12,6 @@ Second Test of Repository
 
 ### third function
 
+### zmiany w readme
+
 ### instrukcja obslugi
